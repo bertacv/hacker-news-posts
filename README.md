@@ -17,7 +17,7 @@ This is a project of the Dataquest learning program.
 
 ## Objective
 
-We will analyse two types of posts - those whose title begin with either `Ask HN` or `Show HN`.
+We analyse two types of posts - those whose title begin with either `Ask HN` or `Show HN`.
 
 - `Ask HN` posts are used to ask the Hacker News community a specific question.
 - `Show HN` posts are used to show the Hacker News community a project or product.
