@@ -9,7 +9,7 @@ Hacker News is a site started by the startup incubator [Y Combinator](https://ww
 We use Python run on a Jupyter Notebook to analyze the data.
 
 - Data: [hackers_new.csv](https://github.com/bertacv/hacker-news-posts/blob/main/data/hacker_news.csv)  or [original dataset](https://www.kaggle.com/hacker-news/hacker-news-posts)
-- Notebook: [Exploring Hacker New Posts.ipynb](https://github.com/bertacv/hacker-news-posts/blob/main/notebooks/Exploring%20Hacker%20New%20Posts.ipynb)
+- Notebook: [Exploring Hacker New Posts.ipynb](https://github.com/bertacv/hacker-news-posts/blob/main/notebooks/Exploring-Hacker-News-Posts.ipynb)
 
 The data set was reduced from almost 300,000 rows to approximately 20,000 rows by removing all submissions that did not receive any comments, and then randomly sampling from the remaining submissions.
 
